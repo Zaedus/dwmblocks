@@ -8,8 +8,10 @@ static const Block blocks[] = {
 	{" 📦 ", "/home/zaedus/.dwm/scripts/pacupdate",		 360,		        9},
 	
 	{" 💻 ", "/home/zaedus/.dwm/scripts/memory",	     6,		          1},
+  
+	{" 🌡 ", "/home/zaedus/.dwm/scripts/temp",         6,             3},
 
-	{" 🔊 ", "/home/zaedus/.dwm/scripts/volume",			 10,		          15},
+	{" 🔊 ", "/home/zaedus/.dwm/scripts/volume",			 10,		        15},
 
 	{" 🔋 ", "/home/zaedus/.dwm/scripts/battery",      20,            11},
 
